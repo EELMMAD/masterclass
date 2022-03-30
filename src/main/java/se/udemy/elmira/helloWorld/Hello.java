@@ -1,4 +1,4 @@
-package se.udemy.elmira.HelloWorld;
+package se.udemy.elmira.helloWorld;
 
 public class Hello {
     public static void main(String[] args) {
