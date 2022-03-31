@@ -13,5 +13,8 @@ public class CharAndBoolean {
         boolean myTrueBooleanValue = true;
         boolean myFalseBooleanValue = false;
         boolean isCustomerOverTwentyOne = true;
+        System.out.println(myTrueBooleanValue);
+        System.out.println(myFalseBooleanValue);
+        System.out.println(isCustomerOverTwentyOne);
     }
 }
