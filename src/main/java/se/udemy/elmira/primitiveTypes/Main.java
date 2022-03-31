@@ -37,6 +37,5 @@ public class Main {
 
         byte myNewByteValue = (byte)(myMinByteValue / 2);
         short myNewSHortValue = (short)(myMinShortValue / 2);
-        
     }
 }
